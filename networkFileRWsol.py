@@ -1,10 +1,10 @@
 Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 #!/usr/bin/env python3
-#Git11
+#Assignment Name Git11
 #Marco Casas-Cordero
 #Thursday, March 3, 2022
-#Thursday, March 10, 2022 updated
+#Wednesday, April 6, 2022 updated
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
 ##---->>>> Use a try/except clause to import the JSON module
